@@ -1,5 +1,5 @@
 # What and Where are the World's Oldest Businesses (Guided by DataCamp)
-**In this project, I am going to analyze my data using PostgreSQL to discover the numbers of businesses founded before 1000, the oldest business by continent, the most common categories for the oldest businesses on each continent,... **
+**In this project, I am going to analyze my data using PostgreSQL to discover the numbers of businesses founded before 1000, the oldest business by continent, the most common categories for the oldest businesses on each continent,...**
 
 ## 1. Questions to answer
 - How many businesses were founded before 1000?
