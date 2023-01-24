@@ -8,7 +8,7 @@
 - Which are the most common categories for the oldest businesses on each continent?
 
 ## 2. Highlighted components 
-- KEYWORDS: SELECT(), LIMIT, GROUP BY, ORDER BY, WHERE, HAVING, INNER JOIN, 
+- KEYWORDS: SELECT(), LIMIT, GROUP BY, ORDER BY, WHERE, HAVING, INNER JOIN
 - AGGREGATE FUNCTIONS: COUNT(), MAX(), MIN()
 
 ## 3. Dataset
